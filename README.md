@@ -2,6 +2,8 @@
 
 Resize Youtube Thumbnails to the appropriate specifications
 
+## Usage
+
 python .\youtubethumbnail.py --help
 
 Usage: youtubethumbnail.py -i <image-path> -o <output-directory> -f <filename>
